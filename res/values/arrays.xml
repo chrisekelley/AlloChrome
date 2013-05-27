@@ -1,0 +1,22 @@
+<resources>
+
+    <string-array name="url">
+        <item name="0">hello</item>
+        <item name="1">two</item>
+        <item name="2">pixi morph</item>
+        <item name="6">pixi bunny</item>
+        <item name="3">cube</item>
+        <item name="4">google.com</item>
+        <item name="5">cnn.com</item>
+    </string-array>
+    <string-array name="urlValues">
+        <item name="0">file:///android_asset/www/index.html</item>
+        <item name="1">file:///android_asset/www/two1.html</item>
+        <item name="2">file:///android_asset/www/pixi_morph.html</item>
+        <item name="6">file:///android_asset/www/pixi_bunny.html</item>
+        <item name="3">file:///android_asset/www/canvas_three_box.html</item>
+        <item name="4">http://www.google.com</item>
+        <item name="5">http://www.cnn.com</item>
+    </string-array>
+
+</resources>

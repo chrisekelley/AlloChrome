@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlloChrome</string>
+    <string name="action_settings">URL Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="app_name">AlloChrome</string>
+    <string name="pref_mute">Mute</string>
+    <string name="pref_mute_summ">Disable all the sound in the application</string>
+    <string name="menu_settings">URL Settings</string>
+    <string name="pref_url_setting">URLS</string>
+    <string name="pref_url_setting_summary">Select url to test</string>
+    <string name="pref_url">URLS</string>
+</resources>
